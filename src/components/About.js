@@ -13,8 +13,11 @@ export default function About() {
           <p className="mb-8 leading-relaxed">
             Ich spiele Handball in Habenhausen und gehe nebenbei ins Fitnessstudio,
             außerdem spiele ich gerne Fifa und ziehe euch alle ab :D Wenn du dein 
-            können unter Beweis stellen willst dann Kontaktier mich, ansonsten 
-            findest du mich bis zum 28.10.2022 unter der angegebenen Adresse
+            können unter Beweis stellen willst dann kontaktier mich, ansonsten 
+            findest du mich bis zum 28.10.2022 unter der angegebenen <a href="#contact" 
+            className="underline text-green-100">
+            Adresse
+               </a>
           </p>
           <div className="flex justify-center">
             <a
